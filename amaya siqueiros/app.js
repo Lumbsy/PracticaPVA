@@ -3,4 +3,6 @@ function MOSTRARMENSAJE(){
     console.log("hola mundo desde la funcion. ")
     //muestra en la pagina
     document.getElementById("salida").innerHTML="¡Hola mundo desde Java";
+    console.log("hola necesito dinero, moneyyyyy, plataaaa")
+
 }
