@@ -1,0 +1,26 @@
+body{
+    background-color:#f0f8ff;
+    font-family:arial,sans-serif;
+    text-align:center;
+    margin-top:50px;
+}
+h1{
+    color:aquamarine;
+}
+button{
+    background-color:aqua;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:5px;
+    cursor:pointer;
+}
+button:hover{
+    background-color:blue;
+}
+salida{
+    margin-top:20px;
+    font-size:1.3em;
+    color:blanchedalmond;
+    font-weight:bold;
+}
